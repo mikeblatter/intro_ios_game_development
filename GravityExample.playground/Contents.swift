@@ -3,7 +3,7 @@ import PlaygroundSupport
 
 let width = 480
 let height = 640
-let worldGravity: Float = 3
+let worldGravity: Float = 5
 let numberOfSatelites = 10
 
 class Scene: SKScene {
