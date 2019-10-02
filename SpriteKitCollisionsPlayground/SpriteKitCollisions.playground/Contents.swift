@@ -42,6 +42,7 @@ class Scene: SKScene, SKPhysicsContactDelegate {
         return block
     }
     
+    // Lifecycle func when we can start adding to the scene
     override func didMove(to view: SKView) {
         super.size = CGSize(width: 1920, height: 1080)
         
