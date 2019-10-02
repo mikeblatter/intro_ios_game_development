@@ -2,4 +2,4 @@
 
 Introduction to iOS Game Development using SceneKit + Swift
 
-Also https://github.com/mikeblatter/space_shooter_ios
+Full iOS Space Invader Clone: https://github.com/mikeblatter/space_shooter_ios
