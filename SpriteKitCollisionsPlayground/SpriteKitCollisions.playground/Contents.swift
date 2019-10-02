@@ -7,7 +7,7 @@ class Scene: SKScene, SKPhysicsContactDelegate {
     let blockHeight: CGFloat = 50
     let rows = 3
     let columns = 11
-    let numberOfBalls = 2
+    let numberOfBalls = 1
     
     struct CategoryBitMask {
         static let Ball: UInt32 = 0b1 << 0
