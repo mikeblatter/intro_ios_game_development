@@ -11,7 +11,7 @@ class Scene: SKScene, SKPhysicsContactDelegate {
     
     struct CategoryBitMask {
         static let Ball: UInt32 = 0b1 << 0
-        static let Block: UInt32 = 0b1 << 1
+        static let Block: UInt32 = 0b1 << 2
     }
     
     func createBall() -> SKSpriteNode {
